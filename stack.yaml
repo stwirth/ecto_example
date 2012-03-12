@@ -1,0 +1,10 @@
+Catkin-ProjectName: ecto_example
+Version: 0.0.1
+Description: An ecto example
+Author: Stephan Wirth <stephan.wirth@uib.es>
+Maintainer:  Stephan Wirth <stephan.wirth@uib.es>
+Homepage:  http://ecto.willowgarage.com
+
+Depends: catkin, boost, ecto, opencv2
+
+Catkin-DebRulesType: cmake
